@@ -1,0 +1,8 @@
+.loginHeader{height:80px;border-bottom: 1px solid #ccc;box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.39);width:100%;min-width:1200px;}
+.loginHeaderContainer{height:80px;margin:0 auto;width:1200px;min-width: 1200px;}
+.loginHeader .loginTopName{font-size: 14px;color: #666;}
+.loginHeader .loginTopName .logo h3{text-align: center;color: #0085d0;font-size: 20px;font-family: "苹方";}
+.loginHeader .loginTopName .logo p{text-align: center;color: #0085d0;}
+.loginHeader .loginTopName .logo span{font-size: 14px;padding:0 10px;color: #0085d0;}
+.loginOuter .main-container{width:100%;min-width:1200px;height:calc(100vh - 80px);background-image: linear-gradient(to bottom,#08090D 0,#0B0C10 50%,#050608 100%);min-height: 500px;}
+.loginOuter .main-container .main{width:1200px;height: 100%;background: url("/imgs/adminbg.jpg") center;margin:0 auto;background-size: contain;background-repeat: no-repeat;}
